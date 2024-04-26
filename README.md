@@ -168,7 +168,7 @@ Tech stack
 <img width="60px" heigth="60px" src="https://github.com/im-niraj/im-niraj/blob/master/express-js-80.png" />
 <img width="60px" height="60px" src="https://github.com/im-niraj/im-niraj/blob/master/nodejs-96.png"/>  -->
 <img width="60px" height="60px" src="https://github.com/mukuljagtap99/mukuljagtap99/blob/main/postman.svg"/>
-<img width="60px" height="60px" src="https://github.com/mukuljagtap99/mukuljagtap99/blob/main/js.svg"/>
+<!--<img width="60px" height="60px" src="https://github.com/mukuljagtap99/mukuljagtap99/blob/main/js.svg"/>-->
 <img width="60px" height="60px" src="https://github.com/mukuljagtap99/mukuljagtap99/blob/main/html.svg"/>
 <img width="60px" height="60px" src="https://github.com/mukuljagtap99/mukuljagtap99/blob/main/css.svg"/>
 
