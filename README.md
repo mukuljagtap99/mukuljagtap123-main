@@ -160,17 +160,17 @@ Tech stack
  </table>
 
 <div>
-<img width="60px" height="60px" src="https://github.com/mukuljagtap99/mukuljagtap99/blob/master/java-icon.svg"/>
-<img width="60px" height="60px" src="https://github.com/mukuljagtap99/mukuljagtap99/blob/master/spring.png"/>
-<img width="60px" height="60px" src="https://github.com/mukuljagtap99/mukuljagtap99/blob/master/hibernate.svg"/>
-<img width="80px" height="60px" src="https://github.com/mukuljagtap99/mukuljagtap99/blob/master/MySQL.png"/>
+<img width="60px" height="60px" src="https://github.com/mukuljagtap99/mukuljagtap99/blob/main/java-icon.svg"/>
+<img width="60px" height="60px" src="https://github.com/mukuljagtap99/mukuljagtap99/blob/main/spring.png"/>
+<img width="60px" height="60px" src="https://github.com/mukuljagtap99/mukuljagtap99/blob/main/hibernate.svg"/>
+<img width="80px" height="60px" src="https://github.com/mukuljagtap99/mukuljagtap99/blob/main/MySQL.png"/>
 <!-- <img width="60px" height="60px" src="https://github.com/im-niraj/im-niraj/blob/master/react-80.png"/>
 <img width="60px" heigth="60px" src="https://github.com/im-niraj/im-niraj/blob/master/express-js-80.png" />
 <img width="60px" height="60px" src="https://github.com/im-niraj/im-niraj/blob/master/nodejs-96.png"/>  -->
-<img width="60px" height="60px" src="https://github.com/mukuljagtap99/mukuljagtap99/blob/master/postman.svg"/>
-<img width="60px" height="60px" src="https://github.com/mukuljagtap99/mukuljagtap99/blob/master/js.svg"/>
-<img width="60px" height="60px" src="https://github.com/mukuljagtap99/mukuljagtap99/blob/master/html.svg"/>
-<img width="60px" height="60px" src="https://github.com/mukuljagtap99/mukuljagtap99/blob/master/css.svg"/>
+<img width="60px" height="60px" src="https://github.com/mukuljagtap99/mukuljagtap99/blob/main/postman.svg"/>
+<img width="60px" height="60px" src="https://github.com/mukuljagtap99/mukuljagtap99/blob/main/js.svg"/>
+<img width="60px" height="60px" src="https://github.com/mukuljagtap99/mukuljagtap99/blob/main/html.svg"/>
+<img width="60px" height="60px" src="https://github.com/mukuljagtap99/mukuljagtap99/blob/main/css.svg"/>
 
 </div>
 
